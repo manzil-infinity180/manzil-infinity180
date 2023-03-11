@@ -1,10 +1,16 @@
+<div align="center" >
+<img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="450px" margin="50% 50%"> 
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Rahul Vishwakarma </h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 <h3 align="center">Stepping forward to MANZIL 💕</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzil-infinity180&label=Profile%20views&color=0e75b6&style=flat" alt="manzil-infinity180" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manzil-infinity180" alt="manzil-infinity180" /></a> </p>
+
 
 - 👨‍💻 My Portfolio is available at [https://manzil-infinity180.github.io/Rahul-portfolio.io/](https://manzil-infinity180.github.io/Rahul-portfolio.io/)
 
