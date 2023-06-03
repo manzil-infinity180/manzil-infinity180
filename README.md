@@ -9,7 +9,7 @@
 <h3 align="center">Stepping forward to MANZIL 💕</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manzil-infinity180&label=Profile%20views&color=0e75b6&style=flat" alt="manzil-infinity180" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzil-infinity180&label=Profile%20views&color=0e75b6&style=flat" alt="manzil-infinity180" /> </p> -->
 
 
 
