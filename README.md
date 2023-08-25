@@ -37,6 +37,6 @@
 #Open Source Contributor 
 <br>
 
- <p>&nbsp;<img align="center" src="https://github.com/manzil-infinity180/manzil-infinity180/assets/119070053/34f564f7-bf63-4fd8-bc3c-32bab49cc5ab" alt="Celestia-Contributor" /></p> 
+ <p>&nbsp;<img align="center" width="5%" height="5%" src="https://github.com/manzil-infinity180/manzil-infinity180/assets/119070053/34f564f7-bf63-4fd8-bc3c-32bab49cc5ab" alt="Celestia-Contributor" /></p> 
 
 
