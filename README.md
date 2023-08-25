@@ -35,5 +35,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manzil-infinity180&" alt="manzil-infinity180" /></p>
 #Open Source Contributor 
-![Celestia-Contributor](https://github.com/manzil-infinity180/manzil-infinity180/assets/119070053/34f564f7-bf63-4fd8-bc3c-32bab49cc5ab)
+<br>
+
+ <p>&nbsp;<img align="center" src="https://github.com/manzil-infinity180/manzil-infinity180/assets/119070053/34f564f7-bf63-4fd8-bc3c-32bab49cc5ab" alt="Celestia-Contributor" /></p> 
+
 
