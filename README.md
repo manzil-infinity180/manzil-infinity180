@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-vishwakarma-553874256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-vishwakarma-553874256" height="30" width="40" /></a>
-<a href="https://instagram.com/manzil.infinity180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manzil.infinity180" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/rahulvs2809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulvs2809" height="30" width="40" /></a>
 </p>
 
@@ -34,4 +34,6 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manzil-infinity180&show_icons=true&locale=en" alt="manzil-infinity180" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manzil-infinity180&" alt="manzil-infinity180" /></p>
+#Open Source Contributor 
+![Celestia-Contributor](https://github.com/manzil-infinity180/manzil-infinity180/assets/119070053/34f564f7-bf63-4fd8-bc3c-32bab49cc5ab)
 
