@@ -34,9 +34,9 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manzil-infinity180&show_icons=true&locale=en" alt="manzil-infinity180" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manzil-infinity180&" alt="manzil-infinity180" /></p>
-#Open Source Contributor 
+ 
+<h3 align="left">Open Source Contribution</h3>
 <br>
-
  <p>&nbsp;<img align="center" width="15%" height="15%" src="https://github.com/manzil-infinity180/manzil-infinity180/assets/119070053/34f564f7-bf63-4fd8-bc3c-32bab49cc5ab" alt="Celestia-Contributor" /></p> 
 
 
