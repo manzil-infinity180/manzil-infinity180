@@ -16,14 +16,11 @@
 - 👨‍💻 My Portfolio is available at [https://manzil-infinity180.github.io/Rahul-portfolio.io/](https://manzil-infinity180.github.io/Rahul-portfolio.io/)
 
 - 📫 How to reach me **rahulvs2809@gmail.com**
-<div align="center">
- <h2>Connect with me:</h2>
-<p>
   
-<a href="https://linkedin.com/in/rahul-vishwakarma-553874256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-vishwakarma-553874256" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rahulvs2809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulvs2809" height="30" width="40" /></a>
-</p>
-</div>
+ <a href="https://twitter.com/manzil_rahul">
+ <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/manzil_rahul?style=for-the-badge&logo=twitter">
+
+</a>
 
 <br>
 <div align="center" >
