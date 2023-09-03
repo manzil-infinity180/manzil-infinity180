@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rahulvs2809@gmail.com**
 <div align="center">
- <h3>Connect with me:</h3>
+ <h2>Connect with me:</h2>
 <p>
   
 <a href="https://linkedin.com/in/rahul-vishwakarma-553874256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-vishwakarma-553874256" height="30" width="40" /></a>
@@ -25,9 +25,10 @@
 </p>
 </div>
 
-
+<br>
 <div align="center" >
-<h3>Languages and Tools:</h3>
+<h2>Languages and Tools:</h2>
+ <br>
  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +43,7 @@
 
 </div>
 
-
+<br>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manzil-infinity180&show_icons=true&locale=en&layout=compact" alt="manzil-infinity180" /></p> -->
 
