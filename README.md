@@ -15,19 +15,34 @@
 
 - 👨‍💻 My Portfolio is available at [https://manzil-infinity180.github.io/Rahul-portfolio.io/](https://manzil-infinity180.github.io/Rahul-portfolio.io/)
 
-- 💬 Ask me about **C/C++, HTML/CSS, Javascript**
-
 - 📫 How to reach me **rahulvs2809@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+ <h3>Connect with me:</h3>
+<p>
+  
 <a href="https://linkedin.com/in/rahul-vishwakarma-553874256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-vishwakarma-553874256" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/rahulvs2809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulvs2809" height="30" width="40" /></a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<div align="center" >
+<h3>Languages and Tools:</h3>
+ 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.Js-44883e?style=for-the-badge&logo=node.js&logoColor=black)
+![ExpressJS](https://img.shields.io/badge/express_JS-F7DF1E?style=for-the-badge&logo=express&logoColor=black)
+
+![MongoDB](https://img.shields.io/badge/mongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=green)
+![Mongoose](https://img.shields.io/badge/Mongoose-8A3333?style=for-the-badge&logo=mongoose&logoColor=green)
+![PostmanAPI](https://img.shields.io/badge/Postman_API-orange?style=for-the-badge&logo=postman&logoColor=white)
+![PostmanAPI](https://img.shields.io/badge/C/C++-blue?style=for-the-badge&logo=cpp&logoColor=white)
+
+</div>
+
+
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manzil-infinity180&show_icons=true&locale=en&layout=compact" alt="manzil-infinity180" /></p> -->
 
