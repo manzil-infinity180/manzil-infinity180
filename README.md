@@ -3,8 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Rahul Vishwakarma </h1>
-<h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
+<h1 align="center">Hello World👋, I'm Rahul Vishwakarma </h1>
 <h3 align="center">Focusing on BACKEND ☠️😳</h3>
 <h3 align="center">Stepping forward to MANZIL 💕</h3>
 
