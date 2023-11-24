@@ -49,7 +49,7 @@
  
 <h3 align="left">Open Source Contribution</h3>
  <p>&nbsp;<img align="center" width="15%" height="15%" src="https://github.com/manzil-infinity180/manzil-infinity180/assets/119070053/34f564f7-bf63-4fd8-bc3c-32bab49cc5ab" alt="Celestia-Contributor" /></p> 
-
+ 
 [![An image of @manzil_rahul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manzil_rahul)](https://holopin.io/@manzil_rahul)
 
 
