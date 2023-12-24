@@ -35,7 +35,17 @@
 ![MongoDB](https://img.shields.io/badge/mongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Mongoose](https://img.shields.io/badge/Mongoose-8A3333?style=for-the-badge&logo=mongoose&logoColor=green)
 ![PostmanAPI](https://img.shields.io/badge/Postman_API-orange?style=for-the-badge&logo=postman&logoColor=white)
-![PostmanAPI](https://img.shields.io/badge/C/C++-blue?style=for-the-badge&logo=cpp&logoColor=white)
+![CPP](https://img.shields.io/badge/C/C++-blue?style=for-the-badge&logo=cpp&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React_JS-blue?style=for-the-badge&logo=react&logoColor=#61DBFB)
+![PugJS](https://img.shields.io/badge/Pug_JS-652817?style=for-the-badge&logo=pug&logoColor=white)
+
+![PassportJS](https://img.shields.io/badge/Passport_JS-black?style=for-the-badge&logo=passport&logoColor=#9D6538)
+![Firebase](https://img.shields.io/badge/FireBase-059BE5?style=for-the-badge&logo=firebase)
+
+
+
+
+
 
 </div>
 
