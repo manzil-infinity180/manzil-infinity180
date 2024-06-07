@@ -29,6 +29,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-aeb2d5?style=for-the-badge&logo=php&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.Js-44883e?style=for-the-badge&logo=node.js&logoColor=black)
 ![ExpressJS](https://img.shields.io/badge/express_JS-F7DF1E?style=for-the-badge&logo=express&logoColor=black)
 
@@ -62,6 +63,5 @@
  
 [![An image of @manzil_rahul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manzil_rahul)](https://holopin.io/@manzil_rahul)
 
-<a href="#"><img src="/github-metrics.svg" alt="Metrics" align="right"/></a>
 
 
