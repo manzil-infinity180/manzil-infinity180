@@ -62,4 +62,6 @@
  
 [![An image of @manzil_rahul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manzil_rahul)](https://holopin.io/@manzil_rahul)
 
+<a href="#"><img src="/github-metrics.svg" alt="Metrics" align="right"/></a>
+
 
