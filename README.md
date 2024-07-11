@@ -9,10 +9,15 @@
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzil-infinity180&label=Profile%20views&color=0e75b6&style=flat" alt="manzil-infinity180" /> </p> 
+ 📫 I specialize in <br>
+         - Javascript (Nodejs, Express, React, Mongodb, PostgreSQL)<br>
+         - Testing (Cypress, Jest)<br>
+         - Docker, CI/CD, Github Actions, Vagrant<br>
+         - PHP, Symfony <br />
 
+ 📫 Reach out to me on [Upwork](https://www.upwork.com/freelancers/~01fd0b90efc5c5da94), or you can email me at **rahulvs2809@gmail.com**. 
 
-- 📫 How to reach me **rahulvs2809@gmail.com**
-  
+  <p></p>
  <a href="https://twitter.com/manzil_rahul">
  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/manzil_rahul?style=for-the-badge&logo=twitter">
 
