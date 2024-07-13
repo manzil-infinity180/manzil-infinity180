@@ -9,7 +9,7 @@
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzil-infinity180&label=Profile%20views&color=0e75b6&style=flat" alt="manzil-infinity180" /> </p> 
- 📫 I specialize in <br>
+ 📫 I can work in <br>
          - Javascript (Nodejs, Express, React, Mongodb, PostgreSQL)<br>
          - Testing (Cypress, Jest)<br>
          - Docker, CI/CD, Github Actions, Vagrant<br>
