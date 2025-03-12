@@ -28,19 +28,8 @@
  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/manzil_rahul?style=for-the-badge&logo=twitter">
 
 <p>
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&hide=other">
-    <!-- <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&bg_color=22272E&text_color=CDD9E5&hide_border=true&hide=other,markdown&langs_count=30"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=hollowman6&layout=compact&bg_color=EEEEEE&hide_border=true&hide=other,markdown&langs_count=30"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      /> -->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulxf&layout=compact&hide=other,markdown&langs_count=30&theme=transparent" width="350" alt="Statistics about Hollow Man" />
-    <!-- </picture> -->
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=rahulxf&layout=compact&hide=other,markdown&langs_count=30&theme=transparent">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulxf&layout=compact&hide=other,markdown&langs_count=30&theme=transparent" width="350" alt="Statistics about Rahul" />
   </a>
 </p>
-
 
