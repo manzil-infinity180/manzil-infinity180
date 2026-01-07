@@ -10,26 +10,12 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=manzil-infinity180&label=Profile%20views&color=0e75b6&style=flat" alt="manzil-infinity180" /> </p> 
 
-📫 I can work with: <br />
-        - Golang, TypeScript, JavaScript (ES6+), Python, PHP <br />
-        - Kubernetes, PostgreSQL, React, Next.js, Node.js, Express, WebRTC, Socket.io <br />
-        - Scrapy, Puppeteer, Tailwind CSS <br />
-        - Cypress, Jest <br />
-        - Docker, GitHub Actions, CI/CD, Vagrant <br />
-        - T3 Stack, Symfony <br />
-<br />
-
-![Rahul Vishwakarma stats](https://github-readme-stats.vercel.app/api?username=manzil-infinity180&theme=onedark)
-
  📫 Reach out to me on [Upwork](https://www.upwork.com/freelancers/~01fd0b90efc5c5da94), or you can email me at **rahulvs2809@gmail.com**. 
 
   <p></p>
  <a href="https://twitter.com/manzil_rahul">
  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/manzil_rahul?style=for-the-badge&logo=twitter">
-
 <p>
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=rahulxf&layout=compact&hide=other,markdown&langs_count=30&theme=transparent">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rahulxf&layout=compact&hide=other,markdown&langs_count=30&theme=transparent" width="350" alt="Statistics about Rahul" />
-  </a>
+
 </p>
 
